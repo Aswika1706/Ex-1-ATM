@@ -3,6 +3,31 @@
 # AIM:
 To draw the UML diagram for ATM and Banking System.
 # SRS (Procedure):
+
+## List of diagrams:
+
+1. Use Case Diagram
+
+2. Class Diagram
+
+3. Activity Diagram
+
+4. Package Diagram
+
+5. Communication Diagram
+
+6. Sequence Diagram
+
+## Actors Used-:
+
+1. Customer
+
+2. Manager
+
+3. ATM
+
+4. Employee
+
 # Step 1: Problem Identification
 The main problem is the need for a fast, secure, and automated system that allows customers to perform banking transactions (like withdrawal, deposit, and fund transfer) without depending on bank staff.
 

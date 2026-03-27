@@ -3,6 +3,24 @@
 # AIM:
 To draw the UML diagram for ATM and Banking System.
 # SRS (Procedure):
+List of Programs:
+1.Launching the StarUML Software
+
+2.Selecting the Diagram Type
+
+3.Create 6 Types of Diagrams Based on The Topic:
+
+i) Usecase Diagram
+
+ii)Class Diagram
+
+iii)Activity Diagram
+
+iv)Communication Diagram
+
+v)Package Diagram
+
+vi)Sequence Diagram
 # Step 1: Problem Identification
 The main problem is the need for a fast, secure, and automated system that allows customers to perform banking transactions (like withdrawal, deposit, and fund transfer) without depending on bank staff.
 
